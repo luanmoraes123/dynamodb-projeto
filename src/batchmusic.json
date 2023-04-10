@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Forfun"},
+                  "SongTitle": {"S": "Morada"},
+                  "AlbumTitle": {"S": "Alegria Compartilhada"},
+                  "SongYear": {"S": "2011"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Forfun"},
+                  "SongTitle": {"S": "Alegria Compartilhada"},
+                  "AlbumTitle": {"S": "Alegria Compartilhada"},
+                  "SongYear": {"S": "2011"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Fordun"},
+                  "SongTitle": {"S": "Tropicalia Digital"},
+                  "AlbumTitle": {"S": "Alegria Compartilhada"},
+                  "SongYear": {"S": "2011"}
+                }
+            }
+        }
+      ]
+}
